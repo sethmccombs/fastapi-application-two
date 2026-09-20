@@ -1,4 +1,4 @@
-name: App One Build & Release
+name: App Two Build & Release
 
 on:
   - pull_request
@@ -26,5 +26,5 @@ jobs:
         with:
           push: true
           tags: |
-            453071067280.dkr.ecr.us-west-2.amazonaws.com/take-homes/app-one:${{ github.sha }}
-            453071067280.dkr.ecr.us-west-2.amazonaws.com/take-homes/app-one:latest
+            453071067280.dkr.ecr.us-west-2.amazonaws.com/take-homes/app-two:${{ github.sha }}
+            453071067280.dkr.ecr.us-west-2.amazonaws.com/take-homes/app-two:latest
