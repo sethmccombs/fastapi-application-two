@@ -1,17 +1,16 @@
-# App One PR
+# App Two PR
 
 ## what?
 
-initial repo creation/setup
+<!--what changes is this PR introducing? --->
 
-## tests
+## testing / validation
 
-N/A
-
+<!--how did you validate these changes? --->
 
 ## requirements
 
-- [ ] - tests
-- [ ] - docs
-- [ ] - passing build
-- [ ] - other 
+- [ ] tests
+- [ ] docs
+- [ ] passing build
+- [ ] other 
